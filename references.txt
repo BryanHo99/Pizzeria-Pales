@@ -1,0 +1,8 @@
+[1] - Laravel PHP Framework Tutorial - Full Course for Beginners (2019)
+https://youtu.be/ImtZ5yENzgE
+
+[2] - Bootstrap Documentation
+https://getbootstrap.com/docs/4.1/getting-started/introduction/
+
+[3] - Laravel
+https://laravel.com/
